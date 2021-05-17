@@ -7,8 +7,7 @@
 
 3 - Implement the above using Promises. You could use any library e.g. RSVP or Q.
 
-4. For all other routes, the server should return HTTP code 404 .
-       Please make sure to add error handling e.g./I/want/title/?address=asdasdasd should return <li> asdasdasd - NORESPONSE </li>
+4-  For all other routes, the server should return HTTP code 404 . Please make sure to add error handling e.g./I/want/title/?address=asdasdasd should return <li> asdasdasd - NORESPONSE </li>
 
 ## Example
 Run following example commands for each of the questions:<br>
